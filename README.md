@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @llavandaa
+- 👀 I’m interested in AI programming and cybersecurity
+- 🌱 I’m currently learning Python & cybersecurity
+- 📫 How to reach me: cl.enot@ya.ru
